@@ -1,0 +1,7 @@
+# IDE specific files
+.vscode/
+nbactions.xml
+
+# Maven build artifacts
+target/
+*.jar
